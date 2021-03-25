@@ -4,7 +4,7 @@ English|[中文](README_CN.md)
    
 Ascend Computing Language (AscendCL) provides a collection of C language APIs for users to develop deep neural network apps for object recognition and image classification, ranging from device management, context management, stream management, memory management, to model loading and execution, operator loading and execution, and media data processing. You can call AscendCL APIs through a third-party framework to utilize the compute capability of the Ascend AI Processor, or encapsulate AscendCL into third-party libraries, to provide the runtime and resource management capabilities of the Ascend AI Processor.
 
-This repository provides a wide range of samples developed based on AscendCL APIs. When developing your own samples, feel free to refer to the existing samples in this repository.
+This repository provides a wide range of samples developed based on AscendCL APIs. When developing your own samples, please feel free to refer to the existing samples in this repository.
 
 ## Release Notes
 
